@@ -239,4 +239,4 @@ This repository serves as the official landing page for Pegasus Mail. The softwa
 **Get the most recent version of Pegasus Mail today!**
 
 ---
-**Last updated:** 2026-09-19 22:39:37 UTC
+**Last updated:** 2026-09-20 00:38:39 UTC
